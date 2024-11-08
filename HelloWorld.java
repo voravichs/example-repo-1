@@ -4,6 +4,6 @@ public class HelloWorld {
     }
 
     public static void conflict() {
-        System.out.println("oh no");
+        System.out.println("uh oh");
     }
 }
